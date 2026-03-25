@@ -48,3 +48,7 @@
 ![Task-1.1](image-1.png)
 
 ![Task-1](image.png)
+
+![db](image-2.png)
+
+Хэш пароля: `b896c0996c75a84f378c6ec0af924a800c0b7fcd0ee860b8fb8d7b45f7e9fd8d910604d22b6b9000965a0047c5009ee967a75bf21690412376da9f7bc48a8402`
